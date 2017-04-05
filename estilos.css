@@ -1,7 +1,17 @@
+body{
+  background-color: #FA8AB2
+}
+
+h1{
+  background-color: #7D8B91;
+  color: white;
+  opacity: 0.6;
+  font-size: 40px;
+}
+
 input{
-  background-color: #02A5F1;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
+  background-color: #FC6198;
+  color: white;
+  padding: 25px 35px;
+  text-align: center;
 }
